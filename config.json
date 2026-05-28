@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configprocess",
+        "uuid": 36811431,
+        "checksum": "8zb6fpk"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
